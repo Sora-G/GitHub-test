@@ -7,7 +7,11 @@ int main()
 {
     std::cout << "Hello VisualStudio Git!\n";
 
+
     std::cout << "Hello Conflict Branch\n";
+
+    std::cout << "Hello Master Branch\n";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
